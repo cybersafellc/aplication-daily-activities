@@ -30,27 +30,26 @@ a {
 }
 
 .col-3 {
-    height: 100px;
+  height: 100px;
 }
 
 body {
-    background-color: black !important;
+  background-color: black !important;
 }
 
 .humberger-menu {
-    width: 40px;
-    height: 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 5px;
-
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .humberger-menu > span {
-    width: 100%;
-    height: 4px;
-    background-color: black;
-    border-radius: 20px;
+  width: 100%;
+  height: 4px;
+  background-color: black;
+  border-radius: 20px;
+  margin: 3px auto;
 }
